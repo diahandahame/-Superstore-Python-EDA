@@ -91,7 +91,8 @@ Same business activity, very different profitability depending on the region.
 ### 🏆 Product Performance
 The Canon imageCLASS copier runs at 40.91% margin - the strongest in the entire catalog.
 
-At the other end, 10 products lose money regardless of volume. The Lesro Training Table loses 95 cents per dollar sold. These are not marginal cases - they need a decision.
+At the other end, 10 products lose money regardless of volume. 
+The Lesro Training Table loses 95 cents per dollar sold. These are not marginal cases - they need a decision.
 
 ---
 
