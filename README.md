@@ -120,6 +120,12 @@ The Lesro Training Table loses 95 cents per dollar sold. These are not marginal 
 ### Time Trends
 ![Time Trends](assets/time_trends.png)
 
+### Top Products
+![Top Products](assets/top_products.png)
+
+### Segment Analysis
+![Segment Analysis](assets/segment_analysis.png)
+
 ### Correlation Heatmap
 ![Correlation Heatmap](assets/correlation_heatmap.png)
 
